@@ -1,5 +1,6 @@
 # Hello, I'm Camen
 
+This is my new GitHub account profile.
 I build web applications and IoT systems — from simple prototypes to production-grade solutions.
 
 ---
