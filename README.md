@@ -1,7 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Camen
 
-I build web applications and IoT systems — from simple prototypes to production-grade solutions.  
-Currently working as a [Your Position] at [Your Company/Personal], where I bridge the gap between software and hardware.
+I build web applications and IoT systems — from simple prototypes to production-grade solutions.
 
 ---
 
@@ -58,9 +57,9 @@ I'm also open to collaboration on interesting projects, especially those that in
 
 I'm not very active on social media, but you can reach me through:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [camencoder@gmail.com](mailto:camencoder@gmail.com)
+- **LinkedIn:** [linkedin.com/in/camen-coder-3a335b422](linkedin.com/in/camen-coder-3a335b422)
+- **GitHub:** [github.com/camencoder](https://github.com/camencoder)
 
 I reply to emails within 24–48 hours.
 
