@@ -1,5 +1,7 @@
 # Hi, I'm Camen 👋
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/camen)
+
 I build web applications and IoT systems — from simple prototypes to production-grade solutions.
 
 My real interest lies in connecting the digital world with physical devices. REST APIs, real-time dashboards, Arduino-based sensor networks — I enjoy making things work together.
@@ -37,6 +39,12 @@ My real interest lies in connecting the digital world with physical devices. RES
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+**AI & Prompting**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logo=midjourney&logoColor=white)
 
 ---
 
