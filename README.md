@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I build **web applications** and **IoT systems** — from simple prototypes to production-grade solutions.
 
@@ -26,7 +26,7 @@ My real interest lies in connecting the **digital world** with **physical device
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table align="center">
   <tr>
@@ -79,54 +79,41 @@ My real interest lies in connecting the **digital world** with **physical device
 
 ---
 
-### 🧠 How I Work
+### How I Work
 
 | Principle | Description |
 |-----------|-------------|
-| 📝 **Clean Code** | Maintainable code with sensible documentation |
-| ✅ **Testing** | Unit tests, integration tests, and real-world trials |
-| 📐 **Scalability** | Scalable system design, even for small projects |
-| 💬 **Communication** | Clear communication with clients, teams, and end users |
+| **Clean Code** | Maintainable code with sensible documentation |
+| **Testing** | Unit tests, integration tests, and real-world trials |
+| **Scalability** | Scalable system design, even for small projects |
+| **Communication** | Clear communication with clients, teams, and end users |
 
 I've built **admin dashboards**, **e-commerce platforms**, **environmental monitoring systems**, and **home automation controllers**. Each project taught me something new — about code, about users, and about problem-solving.
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 
-- ⚡ Real-time data streaming for IoT applications
-- ☸️ Container orchestration (Kubernetes)
-- 🖥️ Edge computing and low-power devices
+- Real-time data streaming for IoT applications
+- Container orchestration (Kubernetes)
+- Edge computing and low-power devices
 
 ---
 
-### 🌱 Open Source
+### Open Source
 
 Some of my repositories are open for learning and contribution. If you find something useful — or something broken — feel free to open an **issue** or a **pull request**.
 
 I'm open to collaboration on projects involving:
 
-- 🤖 IoT + web integration
-- 📊 Data visualization
-- 🔧 Automation tools
-- 📚 Educational content for developers
+- IoT + web integration
+- Data visualization
+- Automation tools
+- Educational content for developers
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camencoder&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camencoder&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camencoder&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
-
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:camencoder@gmail.com">
