@@ -7,6 +7,9 @@
   <a href="http://codeme.my.id">
     <img src="https://img.shields.io/badge/🌐_My_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="http://codeme.my.id/product">
+    <img src="https://img.shields.io/badge/📦_My_Code_Product-6C63FF?style=for-the-badge&logo=code&logoColor=white" />
+  </a>
   <a href="https://buymeacoffee.com/camen">
     <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
