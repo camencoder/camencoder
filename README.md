@@ -1,98 +1,80 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                            ✦  HI, I'M CAMEN  ✦                              ║
-║                                                                              ║
-║                  Building Bridges Between Code & Hardware                    ║
-║                                                                              ║
-║    ██████████████████████████████████████████████████████████████████████    ║
-║                                                                              ║
-║    [◈ Website & Portfolio]    [☕ Buy Me a Coffee]    [✉ Email]             ║
-║     codeme.my.id               buymeacoffee.com/camen   camencoder@gmail.com ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+✦  HI, I'M CAMEN  ✦
+────────────────────
+Building Bridges Between Code & Hardware
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◈  codeme.my.id          ◈  buymeacoffee.com/camen
+◈  camencoder@gmail.com
 
-I build web applications and IoT systems — from simple prototypes to 
-production-grade solutions.
+─────────────────────────────────────────────────────────────
 
-My real interest lies in connecting the digital world with physical devices. 
-REST APIs, real-time dashboards, Arduino-based sensor networks — I enjoy 
-making things work together.
+I build web applications and IoT systems — from simple 
+prototypes to production-grade solutions.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+My real interest lies in connecting the digital world with 
+physical devices. REST APIs, real-time dashboards, Arduino-
+based sensor networks — I enjoy making things work together.
+
+─────────────────────────────────────────────────────────────
 
 ⚙  TECH STACK
 
-  BACKEND                         FRONTEND
-  ═══════════                     ════════════
-  ● Node.js / Express             ● React
-  ● Laravel / PHP                 ● Vue.js
-  ● Python / Flask                ● JavaScript (ES6+)
+  BACKEND                 FRONTEND
+  Node.js / Express       React
+  Laravel / PHP           Vue.js
+  Python / Flask          JavaScript
 
-  IoT & HARDWARE                  DATABASE
-  ═══════════════                 ════════════
-  ● Arduino                       ● MySQL / PostgreSQL
-  ● ESP32                         ● MongoDB
-  ● Raspberry Pi                  ● Firebase
-  ● MQTT Protocol
+  IoT & HARDWARE          DATABASE
+  Arduino / ESP32         MySQL / PostgreSQL
+  Raspberry Pi            MongoDB / Firebase
+  MQTT Protocol
 
-  DEVOPS                          AI & PROMPTING
-  ═══════════                     ══════════════
-  ● Docker                        ● OpenAI / ChatGPT
-  ● Nginx                         ● Claude
-  ● Linux                         ● Midjourney
-  ● AWS
+  DEVOPS                  AI & PROMPTING
+  Docker / Nginx          OpenAI / ChatGPT
+  Linux / AWS             Claude / Midjourney
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─────────────────────────────────────────────────────────────
 
 ◈  HOW I WORK
 
-  ✓ Clean, maintainable code with sensible documentation
-  ✓ Proper testing — unit, integration, and real-world trials
-  ✓ Scalable system design, even for small projects
-  ✓ Clear communication with clients, teams, and end users
+  ✓ Clean, maintainable code with documentation
+  ✓ Proper testing — unit, integration, real-world
+  ✓ Scalable design for projects of any size
+  ✓ Clear communication with clients and teams
 
-  I've built admin dashboards, e-commerce platforms, environmental 
-  monitoring systems, and home automation controllers. Each project 
-  taught me something new — about code, about users, and about 
-  problem-solving.
+  I've built admin dashboards, e-commerce platforms, 
+  environmental monitoring, and home automation. Each 
+  project taught me something new.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─────────────────────────────────────────────────────────────
 
 ◈  CURRENTLY EXPLORING
 
-  → Real-time data streaming for IoT applications
-  → Container orchestration with Kubernetes
-  → Edge computing and low-power devices
+  → Real-time data streaming for IoT
+  → Kubernetes orchestration
+  → Edge computing & low-power devices
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─────────────────────────────────────────────────────────────
 
 ◈  OPEN SOURCE
 
-  Some of my repositories are open for learning and contribution. If you 
-  find something useful — or something broken — feel free to open an 
-  issue or a pull request.
+  Repositories open for learning and contribution. 
+  Open to collaboration on:
+  ✦ IoT + web integration  ✦ Data visualization
+  ✦ Automation tools        ✦ Developer education
 
-  I'm open to collaboration on:
-  
-  ✦ IoT + web integration
-  ✦ Data visualization
-  ✦ Automation tools
-  ✦ Educational content for developers
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─────────────────────────────────────────────────────────────
 
 ◈  CONNECT
 
-  ▸ Website    : codeme.my.id
-  ▸ Email      : camencoder@gmail.com
-  ▸ LinkedIn   : linkedin.com/in/camen-coder-3a335b422
-  ▸ GitHub     : github.com/camencoder
+  Website   : codeme.my.id
+  Email     : camencoder@gmail.com
+  LinkedIn  : linkedin.com/in/camen-coder-3a335b422
+  GitHub    : github.com/camencoder
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─────────────────────────────────────────────────────────────
 
-  "I don't believe in 'perfect code' — I believe in code that works, 
-   code that's understandable, and code that solves real problems."
+  "I don't believe in 'perfect code' — I believe in code 
+   that works, code that's understandable, and code that 
+   solves real problems."
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─────────────────────────────────────────────────────────────
