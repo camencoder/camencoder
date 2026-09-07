@@ -1,6 +1,6 @@
 # Hi, I'm Camen 👋
 
-[![My Website Profile](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](http://codeme.my.id)
+[![My Website Profile](https://img.shields.io/badge/My Website Profile-4285F4?style=flat&logo=google-chrome&logoColor=white)](http://codeme.my.id)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/camen)
 
